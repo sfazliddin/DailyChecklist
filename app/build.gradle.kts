@@ -7,14 +7,14 @@ plugins {
 
 android {
     namespace = "com.sifa.dailychecklist"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.sifa.dailychecklist"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 3
-        versionName = "1.3"
+        targetSdk = 35
+        versionCode = 5
+        versionName = "1.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
